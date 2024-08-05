@@ -2,17 +2,16 @@
 ### A passionate frontend developer
 
 
-- 🔭 I’m currently working on **shopping website**
 
-- 🌱 I’m currently learning **NextJs,NodeJs**
+- 🌱 I’m currently learning **NextJs,ExpressJs,NodeJs,MongoDB,SQL**
 
 - 🤝 I’m participating in **AppleSeeds** Bootcamp
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React,Tailwind**
 
 - 📫 How to reach me **m7md3bdeen132@gmail.com**
 
-- ⚡ Fun fact **engineer at the age of 21**
+- ⚡ Fun fact **engineer at the age of 22**
 ### Connect with me:
 - [m7md3bdeen132@gmail.com](mailto:m7md3bdeen132@gmail.com)
   
